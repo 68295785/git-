@@ -1,0 +1,8 @@
+*.bin
+*.[ao]
+!clib.a
+*~
+/text
+aaa/
+bbb/*.c
+#以井号开头的是注释
